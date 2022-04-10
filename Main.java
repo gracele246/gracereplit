@@ -4,13 +4,13 @@ import java.util.Map;
 import java.util.Scanner;
 
 // Starting our menu class
-public class Menu {
+public class Main {
     
     // Create the hashmap to set up all the possible rows
     Map<Integer, MenuRow> menu = new HashMap<>();
 
     // Create a new public class called menu to set up the number of rows
-    public Menu(MenuRow[] rows) {
+    public Main(MenuRow[] rows) {
         int i = 0;
         for (MenuRow row : rows) {
             // Build HashMap for lookup convenience
@@ -75,15 +75,19 @@ class Driver {
                 new MenuRow("Want Matrices?🤓", () -> Matrix.main(null)),
                 new MenuRow("Waiting in the Queue.🙄", () -> QueueTester.main(null)),
                 new MenuRow("Calculating. Now.🤖", () -> Calculator.main(null)),
-                new MenuRow("Sorting!!!➡️", () -> Sorts.main(null))
+                new MenuRow("Sorting!!!➡️", () -> Sorts.main(null)),
+           new MenuRow("Grace QuaterBack: Slection Sort✌️", () -> SelectionSort.main(null)),
+          new MenuRow("Grace Wide Reciever: Merge Sort( ◑‿◑)ɔ┏🍟--🍔┑٩(^◡^ )", () -> MergeSort.main(null)),
+          new MenuRow("Grace Tight End: Insertion Sort💯", () -> InsertionSort.main(null)), 
+          new MenuRow("Grace CornerBack: Insertion Sort🤡", () -> BubbleSort.main(null)), 
         };
 
         // Starting to build the menu
-        Menu menu = new Menu(rows);
+        Main menu = new Main(rows);
 
         // Run menu forever, exit condition contained in loop
         while (true) {
-            System.out.println("      Ak's Data Structures Labs     ");
+            System.out.println("      Grace's Data Structures Labs     ");
             
             // This command allows us to actually display those rows                    that we created up above
             menu.print();
