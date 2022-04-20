@@ -1,7 +1,11 @@
 {% include navigation.html %}
 
-### Study Plan
+### Test Plan
+- Do practice multiple choices and FRQs similar to the actual exam on college board
+- Make sure to rewatch any AP videos for practice or to re-learn different topics
+- Look back at AP CSA Notes for more practice
 
+### Study Plan
 Week  | Monday  | Tuesday  | Wednesday | Thursday | Friday |
 -------------  |  -------------  | -------------- | -------------- | -------------- | -------------- |
 1 | Watch AP Videos and study with classmates on topics that are misunderstood |  Take 2015 MC during classtime. Do test corrections by watching Videos and looking at notes. | Prep for FRQ Thursday   |  Taking FRQ  |  AP Testers will find fellow AP Tester and do Crossover Review and Grading  | 
