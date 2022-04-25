@@ -8,6 +8,7 @@ Here are all the Review Tickets from each week
 
 Week | Ticket with Scores |
 -------------  | -------------- |
+Week 6 | [Review 6](https://github.com/gracele246/gracereplit/issues/6) 
 Week 5 | [Review 5](https://github.com/gracele246/gracereplit/issues/5) |
 Week 4 | [Review 4](https://github.com/gracele246/gracereplit/issues/4) |
 Week 3 | [Review 3](https://github.com/gracele246/gracereplit/issues/3) |
