@@ -5,6 +5,9 @@
 - Make sure to rewatch any AP videos for practice or to re-learn different topics
 - Look back at AP CSA Notes for more practice
 
+### Study Guide
+Here is my study guide which will help review all the topics from each unit: [Notes](https://docs.google.com/document/d/1dFJccMrcsShhnTnlHlOgUr9Pw3E7xz5TUFw5p1UVCMA/edit?usp=sharing)
+
 ### Study Plan
 Week  | Monday  | Tuesday  | Wednesday | Thursday | Friday |
 -------------  |  -------------  | -------------- | -------------- | -------------- | -------------- |
